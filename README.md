@@ -1,0 +1,2 @@
+# OPRE
+ELTE IK - OS
